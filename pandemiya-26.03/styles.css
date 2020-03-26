@@ -1,0 +1,30 @@
+body {
+    background-color: beige;
+}
+
+.header1 {
+    color: red;
+    font-family: "fantasy"
+}
+
+.header2 {
+    color: darkgreen;
+    font-family: "fantasy"
+}
+
+.header3 {
+    color: goldenrod;
+    font-family: "Arial Rounded MT Bold";
+}
+
+.header4 {
+    color: indianred;
+    font-family: InaiMathi;
+}
+
+.picture-virus {
+    width: 250px;
+    height: 200px;
+    float: left;
+    margin: 5px;
+}
